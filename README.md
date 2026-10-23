@@ -14,11 +14,11 @@
         <b style="font-size: 16px;">ProstoChel_</b>
       </td>
       <td align="center" valign="middle">
-        <img src="https://iili.io/nziYxVV.png" width="324" height="140" alt="" />
+        <img src="assets/toast-neoforge.png" width="324" height="140" alt="NeoForge Mod Developer" />
         <br><br>
-        <img src="https://iili.io/nziYziB.png" width="324" height="140" alt="" />
+        <img src="assets/toast-jei.png" width="324" height="140" alt="JEI Unhidden" />
         <br><br>
-        <img src="https://iili.io/nziYul1.png" width="324" height="140" alt="" />
+        <img src="assets/toast-algorithms.png" width="324" height="140" alt="Algorithm Crafter" />
       </td>
     </tr>
   </table>
