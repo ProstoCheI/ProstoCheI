@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Minecraft&weight=600&size=20&pause=1000&color=FFFF55&center=true&vCenter=true&width=550&lines=NeoForge+Mod+Developer!;Crafting+in+Java+%26+C%23...;JEI-Unhidden;Always+building+and+exploring..." alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Minecraft&weight=600&size=20&pause=1000&color=FFFF55&center=true&vCenter=true&width=550&lines=NeoForge+%26+Fabric+Mod+Developer!;Crafting+in+Java+%26+C%23...;JEI-Unhidden;Always+building+and+exploring..." alt="" />
 </div>
 
 ---
